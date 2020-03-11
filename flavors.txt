@@ -1,5 +1,5 @@
 1.  Spicy
 2.  Salty
-3.  Sweet
+3.  Yucky
 4.  Sour
 5.  Umami
